@@ -6,7 +6,7 @@
   <link href="https://peter-biao.github.io/atom.xml" rel="self"/>
   
   <link href="https://peter-biao.github.io/"/>
-  <updated>2024-09-24T13:43:05.329Z</updated>
+  <updated>2024-09-24T14:25:08.820Z</updated>
   <id>https://peter-biao.github.io/</id>
   
   <author>
@@ -17,22 +17,16 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>spring</title>
+    <title>Spring</title>
     <link href="https://peter-biao.github.io/2024/09/24/Spring/spring/"/>
     <id>https://peter-biao.github.io/2024/09/24/Spring/spring/</id>
     <published>2024-09-24T08:00:00.000Z</published>
-    <updated>2024-09-24T13:43:05.329Z</updated>
+    <updated>2024-09-24T14:25:08.820Z</updated>
     
-    <content type="html"><![CDATA[<p>#1. 什么是pring？</p><details><summary>展开</summary><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">Spring是一个开源的Java开发框架，是为了解决企业级应用开发的复杂性而创建的。Spring是一个轻量级的控制反转(IoC)和面向切面编程(AOP)的框架。Spring可以轻松地集成各种优秀的第三方框架，比如Hibernate, Struts, SpringMVC等。Spring是一个全栈式的开发框架，涵盖了企业级应用开发的方方面面，包括核心容器，数据访问/集成，Web开发，服务集成，消息服务，测试，云计算等。Spring是一个开源的框架，它的源代码是免费的，并且完全遵循Apache 2.0协议。</span><br></pre></td></tr></table></figure></details>]]></content>
+    <content type="html"><![CDATA[<p>1.什么是pring?   </p><details>  <summary>展开</summary><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">Spring是一个开源的Java开发框架，是为了解决企业级应用开发的复杂性而创建的。  </span><br><span class="line">Spring是一个轻量级的控制反转(IoC)和面向切面编程(AOP)的框架。  </span><br><span class="line">Spring可以轻松地集成各种优秀的第三方框架，比如Hibernate, Struts, SpringMVC等。  </span><br><span class="line">Spring是一个全栈式的开发框架，涵盖了企业级应用开发的方方面面，  </span><br><span class="line">包括核心容器，数据访问/集成，Web开发，服务集成，消息服务，测试，云计算等。  </span><br><span class="line">Spring是一个开源的框架，它的源代码是免费的，并且完全遵循Apache 2.0协议。</span><br></pre></td></tr></table></figure></details>]]></content>
     
     
-      
-      
-    <summary type="html">&lt;p&gt;#1. 什么是pring？&lt;/p&gt;
-&lt;details&gt;
-&lt;summary&gt;展开&lt;/summary&gt;
-&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;lin</summary>
-      
+    <summary type="html">介绍了spring的基本概念和面试题</summary>
     
     
     
